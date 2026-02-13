@@ -1,6 +1,6 @@
 # 🚀 Streamlit + PostgreSQL Mini User Management App
 
-🎥 **YouTube Channel:** Your YouTube Channel Name  
+🎥 **YouTube Channel:** [Turtle Code](https://www.youtube.com/@turtlecode)
 
 This project demonstrates how to build a mini user management system using **Streamlit** and **PostgreSQL**.
 
