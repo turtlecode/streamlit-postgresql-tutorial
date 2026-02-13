@@ -25,13 +25,3 @@ This project demonstrates how to build a mini user management system using **Str
 - psycopg2  
 
 ---
-
-## ⚙️ Installation & Setup
-
-1. Install **PostgreSQL** on your computer.
-2. Make sure your PostgreSQL server is running (via pgAdmin).
-3. Create a database (or use the default `postgres` database).
-4. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
